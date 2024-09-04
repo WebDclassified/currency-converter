@@ -36,7 +36,7 @@ function App() {
           className="object-cover h-screen w-full brightness-50"
         >
           <source
-            src="src/assets/3191576-uhd_3840_2160_25fps.mp4"
+            src="https://cdn.pixabay.com/video/2024/03/15/204306-923909642_large.mp4"
             type="video/mp4"
           />
         </video>
